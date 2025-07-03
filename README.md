@@ -11,6 +11,7 @@
 - 头条小程序（字节跳动）
 - 快手小程序
 - QQ小程序
+- 鸿蒙元服务ASCF框架
 - ...
 
 # 特性
@@ -95,6 +96,9 @@ npx iconfont-kuaishou
 
 # QQ小程序
 npx iconfont-qq
+
+# 鸿蒙元服务
+npx iconfont-harmony
 ```
 生成后查看您设置的保存目录中是否含有所有的图标
 
@@ -103,7 +107,7 @@ npx iconfont-qq
 在生成代码之前，你可以顺便参考[snapshots目录](https://github.com/iconfont-cli/mini-program-iconfont-cli/tree/master/snapshots)自动生成的快照文件。
 
 # Step 4
-#### 微信小程序 | QQ小程序
+#### 微信小程序 | QQ小程序 | 鸿蒙元服务ASCF框架
 在根目录的`app.json`文件中引入全局图标组件，避免每个page都引入（麻烦）。
 ```json5
 // 绝对路径

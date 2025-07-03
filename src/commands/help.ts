@@ -13,5 +13,6 @@ console.log([
   '    ' + colors.green.bold('npx iconfont-toutiao [--config]') + '  : Generate toutiao icon component',
   '    ' + colors.green.bold('npx iconfont-kuaishou [--config]') + '  : Generate kuaishou icon component',
   '    ' + colors.green.bold('npx iconfont-qq [--config]') + '       : Generate qq icon component',
+  '    ' + colors.green.bold('npx iconfont-harmony [--config]') + '       : Generate harmony icon component',
   '',
 ].join('\n'));

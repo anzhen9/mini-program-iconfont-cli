@@ -6,3 +6,4 @@ npx ts-node src/commands/createKuaishouIcon.ts --config ./scripts/config/kuaisho
 npx ts-node src/commands/createBaiduIcon.ts --config ./scripts/config/baidu.json
 npx ts-node src/commands/createAlipayIcon.ts --config ./scripts/config/alipay.json
 npx ts-node src/commands/createWechatIcon.ts --config ./scripts/config/wechat.json
+npx ts-node src/commands/createHarmonyIcon.ts --config ./scripts/config/harmony.json
